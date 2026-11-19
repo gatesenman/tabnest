@@ -4,19 +4,19 @@
 
 ## 界面截图
 
-![主界面（浅色）](src/tabnest/docs/screenshots/main-light.png)
+![主界面（浅色）](docs/screenshots/main-light.png)
 
 *主界面（浅色） / Main window, light theme*
 
-![主界面（深色）](src/tabnest/docs/screenshots/main-dark.png)
+![主界面（深色）](docs/screenshots/main-dark.png)
 
 *主界面（深色） / Main window, dark theme*
 
-![总览](src/tabnest/docs/screenshots/overview.png)
+![总览](docs/screenshots/overview.png)
 
 *总览 / Overview*
 
-![自动整理](src/tabnest/docs/screenshots/autoorg.png)
+![自动整理](docs/screenshots/autoorg.png)
 
 *自动整理 / Auto-organize*
 
@@ -35,25 +35,23 @@
 
 ## 从源码运行
 
-源码在 `src/tabnest/`。本仓库不包含安装包。
+源码在仓库根目录。本仓库不包含安装包。
 
 ```bash
-cd src/tabnest
 npm install
 npm run dev
 npm test
 npm run build
 ```
-
 ## 文档
 
-- [源码 README](src/tabnest/README.md)
-- [更新日志](src/tabnest/CHANGELOG.md)
-- [开发说明](src/tabnest/docs/DEVELOPMENT.md)
+- [源码 README](README.original.md)
+- [更新日志](CHANGELOG.md)
+- [开发说明](docs/DEVELOPMENT.md)
 
 ## 许可证
 
-`src/tabnest/package.json` 声明为 MIT。仓库根目录未附带 LICENSE 文件。
+`package.json` 声明为 MIT。仓库根目录未附带 LICENSE 文件。
 
 ---
 
@@ -65,19 +63,19 @@ npm run build
 
 ## Screenshots
 
-![Main window, light theme](src/tabnest/docs/screenshots/main-light.png)
+![Main window, light theme](docs/screenshots/main-light.png)
 
 *主界面（浅色） / Main window, light theme*
 
-![Main window, dark theme](src/tabnest/docs/screenshots/main-dark.png)
+![Main window, dark theme](docs/screenshots/main-dark.png)
 
 *主界面（深色） / Main window, dark theme*
 
-![Overview](src/tabnest/docs/screenshots/overview.png)
+![Overview](docs/screenshots/overview.png)
 
 *总览 / Overview*
 
-![Auto-organize](src/tabnest/docs/screenshots/autoorg.png)
+![Auto-organize](docs/screenshots/autoorg.png)
 
 *自动整理 / Auto-organize*
 
@@ -96,23 +94,21 @@ npm run build
 
 ## Getting started
 
-Source is under `src/tabnest/`. This repository does not include installers.
+Source is at the repository root. This repository does not include installers.
 
 ```bash
-cd src/tabnest
 npm install
 npm run dev
 npm test
 npm run build
 ```
-
 ## Documentation
 
-- [源码 README](src/tabnest/README.md)
-- [更新日志](src/tabnest/CHANGELOG.md)
-- [开发说明](src/tabnest/docs/DEVELOPMENT.md)
+- [源码 README](README.original.md)
+- [更新日志](CHANGELOG.md)
+- [开发说明](docs/DEVELOPMENT.md)
 
 ## License
 
-`src/tabnest/package.json` declares MIT. There is no LICENSE file at the repository root.
+`package.json` declares MIT. There is no LICENSE file at the repository root.
 
