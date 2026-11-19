@@ -1,0 +1,73 @@
+{
+  "name": "tabnest",
+  "version": "1.4.2",
+  "description": "TabNest 页签巢 — 浏览器标签页快照与渐进整理",
+  "main": "out/main/index.js",
+  "author": {
+    "name": "TabNest",
+    "email": "support@tabnest.app"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "cross-env ELECTRON_RUN_AS_NODE=1 electron node_modules/vitest/vitest.mjs run",
+    "test:e2e": "npm run build && playwright test",
+    "icons": "node scripts/gen-icons.mjs",
+    "postinstall": "electron-builder install-app-deps",
+    "verify": "npm run typecheck && npm run lint && npm run format:check && npm test && npm run build",
+    "dist": "npm run build && electron-builder",
+    "dist:linux": "npm run build && electron-builder --linux AppImage deb",
+    "dist:win": "npm run build && electron-builder --win nsis",
+    "dist:mac": "npm run build && electron-builder --mac dmg"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@playwright/test": "^1.64.1",
+    "@resvg/resvg-js": "^2.6.2",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^20.19.43",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "cross-env": "^10.1.0",
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "electron-vite": "^2.3.0",
+    "eslint": "^9.39.5",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "globals": "^17.13.0",
+    "lz4js": "^0.2.0",
+    "png-to-ico": "^3.0.2",
+    "prettier": "^3.9.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tsx": "^4.23.15",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.71.2",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.9"
+  },
+  "dependencies": {
+    "@tanstack/react-virtual": "^3.14.19",
+    "better-sqlite3": "^11.10.0",
+    "electron-log": "^5.4.4",
+    "electron-updater": "^6.8.9",
+    "lucide-react": "^0.453.0",
+    "zod": "^3.25.76"
+  },
+  "productName": "TabNest",
+  "homepage": "https://github.com/tabnest/tabnest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tabnest/tabnest.git"
+  },
+  "allowScripts": {
+    "better-sqlite3@11.10.0": true
+  }
+}

@@ -1,0 +1,9 @@
+out
+release
+node_modules
+package-lock.json
+build/*.png
+*.md
+test-results
+playwright-report
+.github

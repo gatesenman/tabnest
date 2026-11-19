@@ -1,0 +1,300 @@
+[
+  [
+    "https://github.com/facebook/react",
+    "GitHub - facebook/react: The library for web and native user interfaces",
+    "The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub.",
+    "开发/代码托管"
+  ],
+  ["https://gitee.com/mindspore/mindspore", "MindSpore: 全场景AI计算框架", "MindSpore 是一个全场景深度学习框架，代码托管于 Gitee", "开发/代码托管"],
+  [
+    "https://codeberg.org/forgejo/forgejo",
+    "forgejo/forgejo",
+    "Beyond coding. We forge. Self-hosted lightweight software forge, git repository",
+    "开发/代码托管"
+  ],
+  [
+    "https://sourcehut.org/",
+    "sourcehut - the hacker's forge",
+    "sourcehut is a network of useful open source tools for software project maintainers: git repository hosting, mailing lists, CI",
+    "开发/代码托管"
+  ],
+  ["https://gitea.com/gitea/tea", "tea - Gitea", "Command line tool to interact with Gitea servers. Source code repository", "开发/代码托管"],
+  [
+    "https://github.com/microsoft/vscode/issues/12345",
+    "Editor freezes when opening large file · Issue #12345 · microsoft/vscode",
+    "Issue in the vscode repository",
+    "开发/代码托管"
+  ],
+  [
+    "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+    "Array.prototype.map() - JavaScript | MDN",
+    "map() 方法创建一个新数组，这个新数组由原数组中的每个元素都调用一次提供的函数后的返回值组成。",
+    "开发/文档"
+  ],
+  [
+    "https://react.dev/reference/react/useEffect",
+    "useEffect – React",
+    "useEffect is a React Hook that lets you synchronize a component with an external system.",
+    "开发/文档"
+  ],
+  ["https://zod.dev/", "Zod | Documentation", "TypeScript-first schema validation with static type inference. API reference and guides.", "开发/文档"],
+  ["https://pinia.vuejs.org/zh/", "Pinia | The intuitive store for Vue.js", "类型安全、可扩展性以及模块化设计。Vue 状态管理库官方文档。", "开发/文档"],
+  [
+    "https://www.prisma.io/docs/orm",
+    "Prisma ORM documentation",
+    "Prisma ORM is a next-generation Node.js and TypeScript ORM. Reference, guides and API docs.",
+    "开发/文档"
+  ],
+  [
+    "https://fastapi.tiangolo.com/zh/tutorial/",
+    "教程 - 用户指南 - FastAPI",
+    "本教程将一步步向你展示如何使用 FastAPI 的绝大部分特性。Python Web 框架文档。",
+    "开发/文档"
+  ],
+  [
+    "https://www.liaoxuefeng.com/wiki/1016959663602400",
+    "Python教程 - 廖雪峰的官方网站",
+    "这是小白的Python新手教程，具有如下特点：中文，免费，零起点，完整示例",
+    "开发/文档"
+  ],
+  ["https://es6.ruanyifeng.com/#docs/promise", "Promise 对象 - ECMAScript 6入门", "Promise 是异步编程的一种解决方案，JavaScript 教程文档", "开发/文档"],
+  [
+    "https://pkg.go.dev/net/http",
+    "http package - net/http - Go Packages",
+    "Package http provides HTTP client and server implementations. Go documentation reference.",
+    "开发/文档"
+  ],
+  [
+    "https://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+    "How do JavaScript closures work? - Stack Overflow",
+    "How would you explain JavaScript closures to someone with a knowledge of the concepts",
+    "开发/问答与社区"
+  ],
+  ["https://segmentfault.com/q/1010000043", "vue3 中 watch 不生效是什么原因？ - SegmentFault 思否", "技术问答社区，开发者提问与回答", "开发/问答与社区"],
+  ["https://www.v2ex.com/t/1000000", "大家现在用什么 Node 版本管理工具 - V2EX", "V2EX 是创意工作者们的社区", "开发/问答与社区"],
+  ["https://juejin.cn/post/7300000000000", "深入理解 React Fiber 架构 - 掘金", "掘金是面向全球中文开发者的技术内容分享与交流平台", "开发/问答与社区"],
+  [
+    "https://blog.csdn.net/qq_123/article/details/1234",
+    "npm install 报错 ERESOLVE 解决办法_CSDN博客",
+    "npm 安装依赖报错的解决方法，技术博客",
+    "开发/问答与社区"
+  ],
+  [
+    "https://lobste.rs/s/abc123/",
+    "Why SQLite is so great for embedded | Lobsters",
+    "Lobsters is a computing-focused community centered around link aggregation and discussion of programming",
+    "开发/问答与社区"
+  ],
+  [
+    "https://vercel.com/docs/deployments/overview",
+    "Deployments Overview – Vercel",
+    "Vercel deployments: deploy frontend projects to the cloud with preview URLs",
+    "开发/云与运维"
+  ],
+  [
+    "https://www.cloudflare.com/zh-cn/application-services/products/cdn/",
+    "CDN 内容分发网络 | Cloudflare",
+    "Cloudflare CDN 加速与缓存，全球网络部署",
+    "开发/云与运维"
+  ],
+  ["https://help.aliyun.com/zh/ecs/", "云服务器 ECS - 阿里云帮助中心", "云服务器ECS 是一种安全可靠、弹性可伸缩的云计算服务", "开发/云与运维"],
+  [
+    "https://railway.app/",
+    "Railway",
+    "Railway is an infrastructure platform where you can provision infrastructure, develop locally, and deploy to the cloud.",
+    "开发/云与运维"
+  ],
+  ["https://www.hetzner.com/cloud", "Cheap hosted VPS by Hetzner", "Cloud servers, VPS hosting in Germany and Finland. Deploy in seconds.", "开发/云与运维"],
+  [
+    "https://coolify.io/",
+    "Coolify",
+    "An open-source & self-hostable Heroku / Netlify / Vercel alternative. Deploy servers, databases and services",
+    "开发/云与运维"
+  ],
+  ["https://chatgpt.com/", "ChatGPT", "ChatGPT helps you get answers, find inspiration and be more productive.", "AI"],
+  ["https://grok.com/", "Grok", "Grok is a free AI assistant designed by xAI to maximize truth and objectivity.", "AI"],
+  ["https://www.cursor.com/", "Cursor - The AI Code Editor", "Built to make you extraordinarily productive, Cursor is the best way to code with AI.", "AI"],
+  ["https://lmarena.ai/", "LMArena", "Compare and benchmark large language models (LLM) side by side, vote for the best AI chatbot", "AI"],
+  ["https://www.coze.cn/", "扣子 - 新一代 AI 智能体开发平台", "扣子是新一代 AI 应用开发平台，快速搭建基于大模型的智能体", "AI"],
+  ["https://www.liblib.art/", "LiblibAI-哩布哩布AI - 中国领先的AI创作平台", "AI 绘画模型分享与在线文生图，Stable Diffusion 模型库", "AI"],
+  [
+    "https://huggingface.co/meta-llama/Llama-3.1-8B",
+    "meta-llama/Llama-3.1-8B · Hugging Face",
+    "Model card for Llama 3.1, a multilingual large language model",
+    "AI"
+  ],
+  [
+    "https://www.promptingguide.ai/zh",
+    "提示工程指南 | Prompt Engineering Guide",
+    "提示工程（Prompt Engineering）是一门新兴学科，帮助更好地使用大语言模型",
+    "AI"
+  ],
+  [
+    "https://dify.ai/",
+    "Dify: Leading Agentic Workflow Builder",
+    "Dify is an open-source platform for building AI agents and LLM apps with RAG pipelines",
+    "AI"
+  ],
+  [
+    "https://arxiv.org/abs/1706.03762",
+    "[1706.03762] Attention Is All You Need",
+    "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks",
+    "学习/论文"
+  ],
+  ["https://www.cnki.net/kcms/detail/abc.html", "基于深度学习的图像识别研究 - 中国知网", "期刊论文 摘要 关键词 文献", "学习/论文"],
+  [
+    "https://openreview.net/forum?id=xyz",
+    "Scaling Laws for Neural Language Models | OpenReview",
+    "Abstract: We study empirical scaling laws for language model performance. Conference paper",
+    "学习/论文"
+  ],
+  [
+    "https://www.biorxiv.org/content/10.1101/2024.01.01",
+    "Single-cell atlas of the human brain | bioRxiv",
+    "bioRxiv preprint server for biology. Abstract, full text, citation",
+    "学习/论文"
+  ],
+  ["https://dblp.org/pid/123.html", "dblp: Yann LeCun", "List of computer science publications, journal and conference papers", "学习/论文"],
+  ["https://www.jstor.org/stable/123456", "The Economics of Information on JSTOR", "Journal article, academic research, citation", "学习/论文"],
+  [
+    "https://www.coursera.org/learn/machine-learning",
+    "Machine Learning Specialization | Coursera",
+    "Learn machine learning fundamentals in this beginner-friendly course by Andrew Ng",
+    "学习/课程"
+  ],
+  ["https://www.icourse163.org/course/PKU-1001", "数据结构与算法_北京大学_中国大学MOOC", "中国大学MOOC 课程，北京大学 数据结构 公开课", "学习/课程"],
+  ["https://www.bilibili.com/cheese/play/ss123", "【课程】Python 零基础入门到精通", "系统学习 Python 编程课程", "学习/课程"],
+  [
+    "https://missing.csail.mit.edu/",
+    "The Missing Semester of Your CS Education",
+    "Classes teach you all about advanced topics within CS, this course covers the shell, editors, git. Lectures.",
+    "学习/课程"
+  ],
+  [
+    "https://www.theodinproject.com/",
+    "Your Career in Web Development Starts Here | The Odin Project",
+    "Free full stack curriculum, learn web development with lessons and projects",
+    "学习/课程"
+  ],
+  [
+    "https://zh.wikipedia.org/wiki/量子计算",
+    "量子计算 - 维基百科，自由的百科全书",
+    "量子计算是一种遵循量子力学规律调控量子信息单元进行计算的新型计算模式",
+    "学习/百科"
+  ],
+  ["https://baike.baidu.com/item/长城", "长城_百度百科", "长城，又称万里长城，是中国古代的军事防御工程", "学习/百科"],
+  [
+    "https://www.britannica.com/topic/Renaissance",
+    "Renaissance | Definition, Meaning, History | Britannica",
+    "Encyclopedia article on the Renaissance period in European civilization",
+    "学习/百科"
+  ],
+  ["https://www.baike.com/wiki/敦煌", "敦煌 - 快懂百科", "敦煌词条，百科知识", "学习/百科"],
+  ["https://news.ycombinator.com/item?id=1", "Show HN: I built a tiny SQLite GUI | Hacker News", "Hacker News discussion", "资讯/科技"],
+  ["https://sspai.com/post/90000", "2026 年我的效率工具清单 - 少数派", "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质", "资讯/科技"],
+  ["https://www.36kr.com/p/123", "AI 硬件创业公司完成 B 轮融资 - 36氪", "36氪 科技 创投 资讯", "资讯/科技"],
+  [
+    "https://www.theverge.com/2026/1/1/apple-vision",
+    "Apple’s next headset is coming | The Verge",
+    "The Verge covers tech news, gadget reviews and science",
+    "资讯/科技"
+  ],
+  ["https://www.ithome.com/0/800/000.htm", "小米发布新款平板 - IT之家", "IT之家 数码 科技 资讯 评测", "资讯/科技"],
+  ["https://www.landiannews.com/archives/100000.html", "Windows 11 新版本推送 - 蓝点网", "蓝点网 科技 互联网 资讯", "资讯/科技"],
+  ["https://www.reuters.com/world/china/", "China News | Reuters", "Breaking news headlines from Reuters", "资讯/新闻"],
+  ["https://www.thepaper.cn/newsDetail_forward_100", "国务院常务会议部署 - 澎湃新闻", "澎湃新闻 时事 要闻", "资讯/新闻"],
+  ["https://www.zaobao.com/news/china/story2026", "中国经济数据出炉 | 联合早报", "新闻 快讯", "资讯/新闻"],
+  ["https://news.cctv.com/2026/01/01/ARTI.shtml", "新闻联播 - 央视网", "央视网 新闻 时事", "资讯/新闻"],
+  ["https://apnews.com/article/abc", "Election results live updates | AP News", "Breaking news from the Associated Press", "资讯/新闻"],
+  ["https://www.dw.com/zh/", "德国之声中文网", "DW 新闻 国际 时事 要闻", "资讯/新闻"],
+  ["https://x.com/elonmusk", "Elon Musk (@elonmusk) / X", "posts and replies", "社交"],
+  ["https://weibo.com/u/123", "某某的微博_微博", "微博 关注 粉丝", "社交"],
+  ["https://www.xiaohongshu.com/explore/abc", "露营装备清单分享 - 小红书", "小红书 你的生活指南", "社交"],
+  ["https://bsky.app/profile/someone.bsky.social", "someone — Bluesky", "Social posts on Bluesky", "社交"],
+  ["https://www.douban.com/group/topic/1/", "租房避坑经验 - 豆瓣小组", "豆瓣 小组 讨论 社区", "社交"],
+  ["https://tieba.baidu.com/p/123", "求推荐显卡_显卡吧_百度贴吧", "贴吧 论坛 社区", "社交"],
+  ["https://www.youtube.com/watch?v=abc", "How Transformers Work - YouTube", "Video explaining transformer models", "视频"],
+  ["https://www.bilibili.com/video/BV1xx", "【4K】中国航拍纪录片 合集_哔哩哔哩_bilibili", "纪录片 视频", "视频"],
+  ["https://www.netflix.com/title/1", "Stranger Things | Netflix Official Site", "Watch episodes of the series", "视频"],
+  ["https://www.iqiyi.com/v_abc.html", "庆余年第二季 第1集-电视剧-高清正版视频-爱奇艺", "电视剧 在线观看", "视频"],
+  ["https://www.nicovideo.jp/watch/sm1", "アニメ OP 集 - ニコニコ動画", "anime video stream", "视频"],
+  ["https://www.yhdmp.cc/showp/123.html", "鬼灭之刃 第三季 在线观看 - 樱花动漫", "番剧 动漫 在线观看", "视频"],
+  ["https://music.163.com/#/playlist?id=1", "华语经典歌单 - 歌单 - 网易云音乐", "网易云音乐 歌单 歌曲", "音乐"],
+  ["https://open.spotify.com/album/abc", "Random Access Memories - Album by Daft Punk | Spotify", "Listen to the album on Spotify", "音乐"],
+  ["https://www.xiaoyuzhoufm.com/episode/abc", "第 100 期：聊聊创业 - 小宇宙", "小宇宙 播客 单集", "音乐"],
+  ["https://bandcamp.com/", "Bandcamp", "Discover amazing new music and directly support the artists who make it. Albums, songs", "音乐"],
+  ["https://www.last.fm/music/Radiohead", "Radiohead music, videos, stats and photos | Last.fm", "Listen to free music, songs and albums", "音乐"],
+  ["https://y.qq.com/n/ryqq/songDetail/abc", "晴天 - 周杰伦 - QQ音乐", "QQ音乐 歌曲", "音乐"],
+  ["https://weread.qq.com/web/bookDetail/abc", "三体 - 微信读书", "微信读书 电子书 阅读", "阅读"],
+  ["https://www.qidian.com/book/1", "诡秘之主 - 起点中文网", "起点 小说 网络文学 阅读", "阅读"],
+  ["https://www.goodreads.com/book/show/1", "Dune by Frank Herbert | Goodreads", "Book reviews, reading list", "阅读"],
+  ["https://paulgraham.substack.com/p/essay", "How to Do Great Work - newsletter", "Newsletter essay on substack", "阅读"],
+  ["https://www.gutenberg.org/ebooks/1342", "Pride and Prejudice by Jane Austen - Free Ebook", "Free ebook download, read online", "阅读"],
+  ["https://zh.annas-archive.org/", "安娜的档案", "电子书 图书 搜索 下载 读书", "阅读"],
+  ["https://item.jd.com/100012043978.html", "Apple iPhone 16 Pro 256GB 京东自营", "【京东】价格 优惠 商品详情", "购物"],
+  ["https://detail.tmall.com/item.htm?id=1", "优衣库 男装 摇粒绒外套 天猫旗舰店", "天猫 商品 包邮", "购物"],
+  ["https://www.amazon.com/dp/B0C", "Kindle Paperwhite - Amazon.com", "Buy Kindle Paperwhite, price and deals", "购物"],
+  ["https://www.smzdm.com/p/123/", "好价！某某耳机 299元包邮 - 什么值得买", "优惠 好价 折扣", "购物"],
+  ["https://www.shopify.com/zh/blog/product-research", "跨境电商如何选品 - Shopify 博客", "Shopify 电商 卖家 选品 独立站 运营", "购物"],
+  ["https://www.temu.com/goods.html?id=1", "Wireless earbuds - Temu", "Shop deals, price, free shipping", "购物"],
+  ["https://www.figma.com/community/file/1", "iOS 18 UI Kit | Figma Community", "Design file UI kit", "设计"],
+  ["https://dribbble.com/shots/1", "Banking App UI - Dribbble", "Design inspiration, UI UX shots", "设计"],
+  ["https://www.iconfont.cn/collections/detail?cid=1", "线性图标库 - iconfont-阿里巴巴矢量图标库", "图标 素材 矢量", "设计"],
+  ["https://www.zcool.com.cn/work/abc.html", "品牌VI设计作品 - 站酷 ZCOOL", "站酷 设计师 作品 插画 品牌设计", "设计"],
+  ["https://lucide.dev/icons/", "Lucide Icons", "Beautiful & consistent icon toolkit made by the community. Open source icons", "设计"],
+  ["https://fonts.zeoseven.com/", "ZeoSeven Fonts 字体库", "免费可商用中文字体下载，字体 设计 素材", "设计"],
+  ["https://www.notion.so/workspace/Roadmap-123", "Roadmap - Notion", "Notion workspace page", "工作协作"],
+  ["https://xxx.feishu.cn/docx/abc", "项目周报 - 飞书云文档", "飞书 文档 协作", "工作协作"],
+  ["https://linear.app/team/issue/ABC-1", "ABC-1 Fix login bug - Linear", "Linear issue tracking, project management", "工作协作"],
+  ["https://www.teambition.com/project/1", "产品迭代 - Teambition", "Teambition 项目管理 协作 看板 任务", "工作协作"],
+  ["https://www.tower.im/", "Tower 团队协作工具", "Tower 项目管理 团队协作 待办 看板", "工作协作"],
+  ["https://cal.com/", "Cal.com | Open Scheduling Infrastructure", "Scheduling meetings, calendar booking for teams", "工作协作"],
+  ["https://mail.google.com/mail/u/0/#inbox", "收件箱 - Gmail", "Gmail 邮箱", "工具/邮箱与网盘"],
+  ["https://pan.baidu.com/s/1abc", "百度网盘-分享文件", "百度网盘 云盘 分享", "工具/邮箱与网盘"],
+  ["https://www.dropbox.com/home", "Files - Dropbox", "Dropbox cloud storage", "工具/邮箱与网盘"],
+  ["https://mail.proton.me/u/0/inbox", "Inbox | Proton Mail", "Secure email inbox", "工具/邮箱与网盘"],
+  ["https://www.123pan.com/", "123云盘", "123云盘 网盘 大文件 云存储 同步盘", "工具/邮箱与网盘"],
+  ["https://www.jianguoyun.com/", "坚果云", "坚果云 同步盘 网盘 文件备份", "工具/邮箱与网盘"],
+  ["https://www.deepl.com/translator", "DeepL 翻译：全世界最准确的翻译", "在线翻译工具 translator", "工具/在线工具"],
+  ["https://tinypng.com/", "TinyPNG – Compress WebP, PNG and JPEG images", "Smart lossless compression online tool", "工具/在线工具"],
+  ["https://www.bejson.com/", "在线JSON校验格式化工具（Be JSON）", "JSON 格式化 在线工具 转换", "工具/在线工具"],
+  ["https://cobalt.tools/", "cobalt", "save what you love: download videos from many sites, converter, no ads", "工具/在线工具"],
+  ["https://raindrop.io/", "Raindrop.io — All-in-one bookmark manager", "Bookmark manager to save links, organize bookmarks and collections", "工具/在线工具"],
+  ["https://www.toby.so/", "Toby – Tab management for teams", "Organize browser tabs into collections; tab manager extension", "工具/在线工具"],
+  ["https://www.onetab.com/", "OneTab", "Save up to 95% memory and reduce tab clutter. Tab manager browser extension", "工具/在线工具"],
+  ["https://xueqiu.com/S/SH600519", "贵州茅台(SH600519)股票行情 - 雪球", "雪球 股票 行情 投资", "金融"],
+  ["https://fund.eastmoney.com/000001.html", "华夏成长混合(000001)基金净值 - 天天基金", "基金 净值 理财", "金融"],
+  ["https://www.tradingview.com/chart/", "Live stock, index, futures, Forex and Bitcoin charts — TradingView", "trading charts", "金融"],
+  ["https://www.coingecko.com/", "CoinGecko: Cryptocurrency Prices & Market Capitalization", "crypto bitcoin prices", "金融"],
+  ["https://www.jisilu.cn/data/cbnew/", "可转债 - 集思录", "集思录 投资 理财 证券 基金 数据", "金融"],
+  ["https://www.morningstar.cn/fund/", "晨星网 基金评级", "基金 投资 理财 评级", "金融"],
+  ["https://www.amap.com/search?query=咖啡", "咖啡 - 高德地图", "高德地图 导航 搜索", "生活/地图与出行"],
+  ["https://www.ctrip.com/hotel/1", "上海外滩酒店预订 - 携程", "酒店 预订 机票 旅行", "生活/地图与出行"],
+  ["https://www.booking.com/hotel/jp/abc.html", "Hotel Gracery Shinjuku, Tokyo – Booking.com", "Book hotel, travel", "生活/地图与出行"],
+  ["https://www.mafengwo.cn/travel-scenic-spot/mafengwo/10065.html", "北京旅游攻略 - 马蜂窝", "旅游 攻略 景点 自由行", "生活/地图与出行"],
+  ["https://www.skyscanner.net/", "Skyscanner: Compare Cheap Flights", "Compare flight tickets, hotels and car hire for your trip", "生活/地图与出行"],
+  ["https://www.qyer.com/", "穷游网", "穷游 旅行 出境游 攻略 机票 酒店", "生活/地图与出行"],
+  ["https://www.xiachufang.com/recipe/1/", "红烧肉的做法 - 下厨房", "菜谱 美食 做法", "生活/美食与本地"],
+  ["https://www.dianping.com/shop/1", "某某火锅 - 大众点评", "餐厅 美食 点评", "生活/美食与本地"],
+  ["https://www.allrecipes.com/recipe/1/", "Best Chocolate Chip Cookies Recipe", "Recipe, cooking, food", "生活/美食与本地"],
+  ["https://home.meishichina.com/recipe-1.html", "糖醋排骨的做法_美食天下", "美食 菜谱 家常菜 做法", "生活/美食与本地"],
+  ["https://www.seriouseats.com/", "Serious Eats", "Food, cooking recipes and restaurant guides", "生活/美食与本地"],
+  ["https://www.douguo.com/", "豆果美食", "菜谱 美食 做法 家常菜", "生活/美食与本地"],
+  ["https://store.steampowered.com/app/1091500/", "Cyberpunk 2077 on Steam", "Steam game", "游戏"],
+  ["https://www.taptap.cn/app/1", "原神 - TapTap", "TapTap 手游 游戏", "游戏"],
+  ["https://www.ign.com/articles/elden-ring-review", "Elden Ring Review - IGN", "Game review", "游戏"],
+  ["https://www.gcores.com/articles/1", "机核 GCORES - 主机游戏文化", "游戏 主机游戏 电竞 文化", "游戏"],
+  ["https://www.nexusmods.com/skyrim", "Skyrim Nexus - Mods and Community", "game mods for Skyrim RPG", "游戏"],
+  ["https://www.3dmgame.com/", "3DM游戏网", "单机游戏 攻略 下载 游戏资讯", "游戏"],
+  ["https://www.nga.cn/", "NGA玩家社区", "游戏 玩家 论坛 电竞", "游戏"],
+  ["https://ollama.com/library/qwen2.5", "qwen2.5", "Qwen2.5 models are large language models (LLM). Run AI models locally.", "AI"],
+  [
+    "https://www.typescriptlang.org/docs/handbook/2/generics.html",
+    "TypeScript: Documentation - Generics",
+    "Reference documentation for TypeScript generics",
+    "开发/文档"
+  ],
+  ["https://www.runoob.com/python3/python3-tutorial.html", "Python3 教程 | 菜鸟教程", "Python 3 编程 入门 教程", "开发/文档"],
+  ["https://www.mysql.com/", "MySQL", "The world's most popular open source database", "开发/文档"],
+  ["https://www.pexels.com/zh-cn/", "免费素材图片 · Pexels", "免费图片 素材 摄影 壁纸", "设计"]
+]

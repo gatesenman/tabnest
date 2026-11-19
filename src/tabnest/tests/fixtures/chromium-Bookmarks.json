@@ -1,0 +1,66 @@
+{
+  "checksum": "deadbeef",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "type": "url",
+          "name": "Electron",
+          "url": "https://www.electronjs.org/",
+          "date_added": "13370000000000000"
+        },
+        {
+          "type": "folder",
+          "name": "前端",
+          "date_added": "13370000000000001",
+          "children": [
+            {
+              "type": "url",
+              "name": "React",
+              "url": "https://react.dev/",
+              "date_added": "13370000000000002"
+            },
+            {
+              "type": "url",
+              "name": "Vite",
+              "url": "https://vite.dev/",
+              "date_added": "13370000000000003"
+            },
+            {
+              "type": "folder",
+              "name": "文档",
+              "children": [
+                {
+                  "type": "url",
+                  "name": "MDN",
+                  "url": "https://developer.mozilla.org/",
+                  "date_added": "13370000000000004"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "书签栏",
+      "type": "folder"
+    },
+    "other": {
+      "children": [
+        {
+          "type": "url",
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "date_added": "13370000000000005"
+        }
+      ],
+      "name": "其他书签",
+      "type": "folder"
+    },
+    "synced": {
+      "children": [],
+      "name": "移动设备书签",
+      "type": "folder"
+    }
+  },
+  "version": 1
+}

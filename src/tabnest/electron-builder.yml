@@ -1,0 +1,70 @@
+appId: com.tabnest.app
+productName: TabNest
+copyright: Copyright © 2026 TabNest
+directories:
+  output: release/${version}
+  buildResources: build
+files:
+  - out/**
+  - package.json
+  - '!**/*.map'
+asarUnpack:
+  - resources/**
+  - '**/node_modules/better-sqlite3/**'
+extraMetadata:
+  main: out/main/index.js
+npmRebuild: true
+artifactName: ${productName}-${version}-${os}-${arch}.${ext}
+
+win:
+  icon: build/icon.ico
+  target:
+    - target: nsis
+      arch: [x64]
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  shortcutName: TabNest 页签巢
+  uninstallDisplayName: TabNest 页签巢
+  createDesktopShortcut: true
+  installerIcon: build/icon.ico
+  uninstallerIcon: build/icon.ico
+  installerHeaderIcon: build/icon.ico
+  language: 2052
+
+mac:
+  icon: build/icon.png
+  category: public.app-category.productivity
+  target:
+    - target: dmg
+      arch: [x64, arm64]
+  hardenedRuntime: true
+  gatekeeperAssess: false
+  extendInfo:
+    CFBundleDisplayName: TabNest 页签巢
+dmg:
+  title: TabNest 页签巢 ${version}
+
+linux:
+  icon: build/icons
+  category: Utility
+  maintainer: TabNest <support@tabnest.app>
+  vendor: TabNest
+  synopsis: 页签巢 — 标签页快照与渐进整理
+  description: TabNest 页签巢：把浏览器标签页快照收进本地，安心关闭浏览器，再慢慢整理到收藏夹。
+  desktop:
+    Name: TabNest 页签巢
+    Comment: 标签页快照与整理
+    StartupWMClass: TabNest
+  target:
+    - AppImage
+    - deb
+deb:
+  depends: [libnotify4, libxtst6, libnss3]
+
+publish:
+  provider: github
+  owner: tabnest
+  repo: tabnest
+  releaseType: release
